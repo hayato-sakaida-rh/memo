@@ -34,6 +34,13 @@
 ![parrot_lgtm](https://user-images.githubusercontent.com/103557095/180693022-c9c5c39c-3075-46bb-9f7c-71971d5df93c.jpg)
 ```
 
+#### アーニャ
+<img width="200" alt="anya_lgtm" src="https://user-images.githubusercontent.com/103557095/181406723-93907fff-95bd-4d4e-b676-eb9e290aec9c.jpg">
+
+```
+![anya_lgtm](https://user-images.githubusercontent.com/103557095/181406723-93907fff-95bd-4d4e-b676-eb9e290aec9c.jpg)
+```
+
 <br/>
 
 ## その他の素材
